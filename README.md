@@ -1,9 +1,7 @@
 <div align="center">
-  ![Header](https://raw.githubusercontent.com/vivans720/vivans720/main/github-header-banner.png)
+  <img src="https://raw.githubusercontent.com/vivans720/vivans720/main/github-header-banner.png" alt="Header" />
 </div>
 
-<h1 align="center">Hi, I'm Vivan</h1> 
-<h3 align="center">I am a Full stack web developer.</h3>
 <div align="center">
   <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
   <a href="https://portfolio-website-beta-lac-89.vercel.app" target="_blank" align="center">My Portfolio</a>
