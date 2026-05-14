@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header](./github-header-banner.png)
+  ![Header](github-header-banner.png)
 </div>
 
 <h1 align="center">Hi, I'm Vivan</h1> 
