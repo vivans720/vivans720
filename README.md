@@ -15,17 +15,17 @@
 ## 🛠 My skills include
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)
 
 ### Frameworks and platforms
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,fastapi&theme=dark)
 
 
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,md,vscode,postman&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,github,md,vscode,postman,docker&theme=dark)
 
 
 
