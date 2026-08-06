@@ -10,7 +10,7 @@
 
 -----
 
-- 🌱 I’m currently learning: Next.js, Typescript, DSA
+- 🌱 I’m currently learning: LLM, RAG
 
 ## 🛠 My skills include
 
